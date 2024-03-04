@@ -5,7 +5,7 @@
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[52.5200, 13.4050]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -13,14 +13,14 @@
             "name":"Battle of Berlin",
             "year":"1945",
             "death toll":"1,286,367",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Berlin"
          }
       },
       {
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[42.19, 59.11]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -28,14 +28,14 @@
             "name":"Siege of Gurganj",
             "year":"1221",
             "death toll":"1,200,000",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Turkmenistan"
          }
       },
       {
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[50.4504, 30.5245]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -43,14 +43,14 @@
             "name":"Battle of Kiev",
             "year":"1941",
             "death toll":"761,783",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Kiev"
          }
       },
       {
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[51.6683, 39.1919]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -58,14 +58,14 @@
             "name":"First Battle of Voronezh",
             "year":"1942",
             "death toll":"662,847",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Voronezh"
          }
       },
       {
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[34.6873, 135.5259]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -73,14 +73,14 @@
             "name":"Siege of Osaka",
             "year":"1614-1615",
             "death toll":"500,000",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Osaka"
          }
       },
       {
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[14.5995, 120.9842]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -88,14 +88,14 @@
             "name":"Battle of Manila",
             "year":"1945",
             "death toll":"500,000",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Manila"
          }
       },
       {
          "type":"Feature",
          "geometry":{
             "type":"Point",
-            "coordinates":[UNKNOWN_COORDINATES]
+            "coordinates":[36.86108, 10.33161]
          },
          "id":"UNKNOWN_ID",
          "properties":{
@@ -103,7 +103,7 @@
             "name":"Siege of Carthage",
             "year":"149-146 BC",
             "death toll":"450,000",
-            "present location":"UNKNOWN_LOCATION"
+            "present location":"Carthage, Tunisia"
          }
       },
 	  {
