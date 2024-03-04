@@ -1,0 +1,560 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Berlin",
+            "year":"1945",
+            "death toll":"1,286,367",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"Mongol conquest of the Khwarazmian Empire",
+            "name":"Siege of Gurganj",
+            "year":"1221",
+            "death toll":"1,200,000",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Kiev",
+            "year":"1941",
+            "death toll":"761,783",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"World War II",
+            "name":"First Battle of Voronezh",
+            "year":"1942",
+            "death toll":"662,847",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"Edo Period",
+            "name":"Siege of Osaka",
+            "year":"1614-1615",
+            "death toll":"500,000",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Manila",
+            "year":"1945",
+            "death toll":"500,000",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[UNKNOWN_COORDINATES]
+         },
+         "id":"UNKNOWN_ID",
+         "properties":{
+            "war":"Third Punic War",
+            "name":"Siege of Carthage",
+            "year":"149-146 BC",
+            "death toll":"450,000",
+            "present location":"UNKNOWN_LOCATION"
+         }
+      },
+	  {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[121.4737, 31.2304]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Shanghai",
+            "year":"1937",
+            "death toll":"426,140",
+            "present_location":"Shanghai, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[125.3245, 43.8171]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Chinese Civil War",
+            "name":"Siege of Changchun",
+            "year":"1948",
+            "death toll":"425,000",
+            "present_location":"Changchun, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[19.0402, 47.4979]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Siege of Budapest",
+            "year":"1944–1945",
+            "death toll":"422,000",
+            "present_location":"Budapest, Hungary"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[23.7275, 37.9838]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Mithridatic Wars (First Mithridatic War)",
+            "name":"Siege of Athens and Piraeus",
+            "year":"87–86 BC",
+            "death toll":"400,000",
+            "present_location":"Athens, Greece"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[2.3522, 48.8566]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Franco-Prussian War",
+            "name":"Siege of Paris",
+            "year":"1871",
+            "death toll":"332,142",
+            "present_location":"Paris, France"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[108.2084, 14.0583]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Champa–Đại Việt War (1471)",
+            "name":"Siege of Vijaya",
+            "year":"1471",
+            "death toll":"300,000+",
+            "present_location":"Vijaya (Thành Đà Nẵng), Vietnam"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[22.8143, 49.8397]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War I",
+            "name":"Siege of Przemyśl",
+            "year":"1914",
+            "death toll":"253,000",
+            "present_location":"Przemyśl, Poland"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[-99.1332, 19.4326]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Spanish conquest of the Aztec Empire",
+            "name":"Siege of Tenochtitlan",
+            "year":"1521",
+            "death toll":"240,000",
+            "present_location":"Mexico City, Mexico"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[127.9606, 26.5013]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Okinawa",
+            "year":"1945",
+            "death toll":"240,000",
+            "present_location":"Okinawa, Japan"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[33.5138, 44.6157]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Second Siege of Sevastopol",
+            "year":"1941–1942",
+            "death toll":"236,437",
+            "present_location":"Sevastopol, Crimea, Ukraine"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[33.5138, 44.6157]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Crimean War",
+            "name":"First Siege of Sevastopol",
+            "year":"1854–1855",
+            "death toll":"230,000",
+            "present_location":"Sevastopol, Crimea, Ukraine"
+         }
+      },
+	  {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[5.7131, 50.8503]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of the Bulge",
+            "year":"1944–1945",
+            "death toll":"218,900",
+            "present_location":"Ardennes, Belgium"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[4.5300, 47.1200]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Gallic Wars",
+            "name":"Siege of Alesia",
+            "year":"52 BC",
+            "death toll":"200,000",
+            "present_location":"Alise-Sainte-Reine, France"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[112.4677, 37.4821]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Xinkou",
+            "year":"1937",
+            "death toll":"200,000",
+            "present_location":"Xinkou, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[21.0118, 52.2297]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Warsaw Uprising",
+            "year":"1944",
+            "death toll":"200,000+",
+            "present_location":"Warsaw, Poland"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[28.9795, 41.0082]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Arab–Byzantine wars",
+            "name":"Siege of Constantinople (717–718)",
+            "year":"717–718",
+            "death toll":"170,000",
+            "present_location":"Istanbul, Turkey"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.5560, 48.5914]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Russian Invasion of Ukraine",
+            "name":"Battle of Bakhmut",
+            "year":"2022–2023",
+            "death toll":"165,600",
+            "present_location":"Bakhmut, Ukraine"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[76.5060, 31.6748]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Hill States-Sikh Wars",
+            "name":"First siege of Anandpur",
+            "year":"1700",
+            "death toll":"150,000+",
+            "present_location":"Anandpur Sahib, India"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[25.1447, 35.3364]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Cretan War",
+            "name":"Siege of Candia",
+            "year":"1648–1669",
+            "death toll":"149,739",
+            "present_location":"Heraklion, Crete, Greece"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[112.9519, 26.4207]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Lý-Song War",
+            "name":"Siege of Yongzhou",
+            "year":"1076",
+            "death toll":"140,000",
+            "present_location":"Yongzhou, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[30.7106, 46.4825]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Siege of Odessa",
+            "year":"1941",
+            "death toll":"133,813",
+            "present_location":"Odessa, Ukraine"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[112.5702, 37.7735]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Taiyuan",
+            "year":"1937",
+            "death toll":"130,000",
+            "present_location":"Taiyuan, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[112.6307, 35.2414]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of South Shanxi",
+            "year":"1941",
+            "death toll":"120,000+",
+            "present_location":"Shanxi, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[111.6958, 30.6188]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of West Hubei",
+            "year":"1943",
+            "death toll":"115,830",
+            "present_location":"Hubei, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[2.9248, 51.2093]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Eighty Years' War",
+            "name":"Siege of Ostend",
+            "year":"1601–1604",
+            "death toll":"115,000",
+            "present_location":"Ostend, Belgium"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[118.7786, 32.0603]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Taiping Rebellion",
+            "name":"Third Battle of Nanking",
+            "year":"1864",
+            "death toll":"100,000",
+            "present_location":"Nanjing, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[129.8669, 39.8679]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Russo-Japanese War",
+            "name":"Siege of Port Arthur",
+            "year":"1904–1905",
+            "death toll":"100,000",
+            "present_location":"Port Arthur, China (now Lüshunkou, Dalian)"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[111.6813, 29.0482]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"World War II",
+            "name":"Battle of Changde",
+            "year":"1943",
+            "death toll":"100,000",
+            "present_location":"Changde, China"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[28.9795, 41.0082]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"Sasanian–Byzantine wars",
+            "name":"Siege of Constantinople (626)",
+            "year":"626",
+            "death toll":"95,000",
+            "present_location":"Istanbul, Turkey"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[26.5569, 41.6772]
+         },
+         "id":"unknown_id",
+         "properties":{
+            "war":"First Balkan War",
+            "name":"Siege of Adrianople",
+            "year":"1912–1913",
+            "death toll":"93,282",
+            "present_location":"Edirne, Turkey"
+         }
+       }
+   ]
+}
